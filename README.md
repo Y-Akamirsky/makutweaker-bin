@@ -6,7 +6,7 @@
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)
+![Platform2](https://img.shields.io/badge/Platform-Linux-orange.svg)
 
 ## 📖 Описание
 
