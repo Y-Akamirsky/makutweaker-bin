@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MakuTweaker
+Comment=Twikani systemu, a to cho kak lox
+Exec=makutweaker
+Icon=makutweaker
+Terminal=false
+Categories=Utility;System;

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Author: akamirsky
+#makutweaker.exe
+#Rating=1-5
+export PW_WINE_USE="PROTON_LG_10-25"
+export PW_PREFIX_NAME="DEFAULT"
+export PORTPROTON_NAME="makutweaker"
+export FILE_DESCRIPTION=""
+export FILE_SHA256SUM="c537dd8c2c9c64fad005964ab24522d9bf6ca7d912a1d93b16ec9b1466d19727"
+export PW_VULKAN_USE="6"
